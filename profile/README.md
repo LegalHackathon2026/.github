@@ -1,6 +1,6 @@
 ## 🌈 Contribution Guidelines
 
-Welcome to the Legal Hackathon 2026 project (currently called **Legal Lens** 👀).  
+Welcome to the Legal Hackathon 2026 project (currently called **GameLL or gamell** short for Gamified Law Learning 👀).  
 We’re building something meaningful—please keep contributions thoughtful, clear, and collaborative.
 
 ---
@@ -92,7 +92,7 @@ When submitting a PR:
 ---
 
 ### 🚀 Final Note
-We’re building **Legal Lens** to help everyday Nigerians better understand their rights and make informed decisions.
+We’re building **GameLL/gamell** to help everyday Nigerians better understand their rights and make informed decisions.
 
 Every contribution should support that goal.
 If it doesn’t improve clarity, usability, or impact—rethink it.
