@@ -91,7 +91,7 @@ When submitting a PR:
 ---
 
 ### 🚀 Final Note
-We’re building **GameLL/gamell** to help everyday Nigerians better understand their rights and make informed decisions.
+We’re building a community to help better the lives of people.
 
 Every contribution should support that goal.
-If it doesn’t improve clarity, usability, or impact—rethink it.
+If it doesn’t improve clarity, usability, or impact; rethink it.
