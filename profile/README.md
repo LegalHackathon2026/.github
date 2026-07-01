@@ -1,12 +1,11 @@
 ## 🌈 Contribution Guidelines
 
-Welcome to the Legal Hackathon 2026 project (currently called **GameLL or gamell** short for Gamified Law Learning 👀).  
-We’re building something meaningful—please keep contributions thoughtful, clear, and collaborative.
+Welcome to the official repo of the JACK Team.
 
 ---
 
 ### 🧭 Getting Started
-- Fork the repository and clone it locally  
+- Fork a repository you want to contribut to and clone it locally  
 - Create a new branch before making changes  
   - Naming examples:
     - `feature/quiz-engine`
