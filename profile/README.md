@@ -1,4 +1,4 @@
-## 🌈 Contribution Guidelines
+## 📑 Contribution Guidelines
 
 Welcome to the official repo of the JACK Team.
 
